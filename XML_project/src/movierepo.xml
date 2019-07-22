@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE movies SYSTEM "movies.dtd" >
+<movies>
+  <movie>
+    <code>121</code>
+    <title>Kabir Singh</title>
+    <release-date>
+      <day>10</day>
+      <month>06</month>
+      <year>2019</year>
+    </release-date>
+    <theater-name>PVR</theater-name>
+     <theater-name>INOX</theater-name>
+  </movie>
+   <movie>
+    <code>1001</code>
+    <title>Jab We Met</title>
+    <release-date>
+      <day>12</day>
+      <month>08</month>
+      <year>2000</year>
+    </release-date>
+    <theater-name>Jyoti</theater-name>
+     <theater-name>Mukta</theater-name>
+     <city>Bhopal</city>
+     <city>Pune</city>
+  </movie>
+</movies>
